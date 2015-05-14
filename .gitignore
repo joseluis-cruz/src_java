@@ -1,3 +1,9 @@
+# Excepiones del proyecto P20150508E4
+/P20150508E4/dist/
+/P20150508E4/build/
+/P20150508E4/bin
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
